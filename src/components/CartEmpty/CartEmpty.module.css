@@ -1,0 +1,24 @@
+.cartEmptyWrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.cartEmptyTitle {
+	color: #a44313;
+	margin-top: 80px;
+}
+
+.linkBack {
+	font-size: 30px;
+	text-decoration: none;
+	color: #463636a2;
+}
+
+.backText {
+	margin-left: 4px;
+}
+
+.svgCart {
+	margin: 30px auto;
+}

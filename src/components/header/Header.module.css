@@ -1,0 +1,39 @@
+.navLink {
+	margin-left: 10px;
+}
+
+.buttonNav {
+	width: 80px;
+}
+
+.navLink {
+	text-decoration: none;
+	color: #938e9e;
+	font-weight: 600;
+	font-size: 20px;
+}
+.svgWrapper {
+	position: relative;
+	display: inline-block;
+}
+
+.marginRight {
+	margin-right: 15px;
+}
+
+.cartQuantity {
+	position: absolute;
+	right: -5px;
+	top: 20%;
+	transform: translateY(-50%);
+	background-color: #de707b;
+	border-radius: 100%;
+	padding: 2px;
+	color: #fff;
+	font-size: 10px;
+	min-height: 16px;
+	min-width: 16px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}

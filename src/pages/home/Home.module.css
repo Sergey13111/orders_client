@@ -1,0 +1,15 @@
+.homeWrapper {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin-top: 150px;
+}
+
+.homeContent {
+	font-size: 21px;
+}
+
+.link {
+	text-decoration: none;
+	color: #84a6f1;
+}

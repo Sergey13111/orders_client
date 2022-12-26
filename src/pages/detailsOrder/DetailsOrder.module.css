@@ -1,0 +1,48 @@
+.tableRow {
+	margin: 20px 0;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #a3a3a312;
+}
+
+.nameWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: #955100;
+}
+
+.productName {
+	margin: 0 10px;
+}
+
+.detailsOrderTitle {
+	text-align: center;
+	margin: 20px 0;
+	color: #463636a2;
+}
+
+.col {
+	text-align: center;
+}
+
+.overallResultsWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px 0;
+}
+
+.overallTotal {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 500;
+	color: #463636a2;
+}
+
+@media (max-width: 768px) {
+	.col {
+		margin-bottom: 15px;
+	}
+}

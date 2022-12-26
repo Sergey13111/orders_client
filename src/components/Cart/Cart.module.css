@@ -1,0 +1,28 @@
+.button {
+	color: #463636a2;
+}
+
+.clearOrdersWrapper {
+	text-align: right;
+}
+
+.margLeft {
+	margin-left: 5px;
+}
+
+.checkoutWrapper {
+	text-align: right;
+}
+
+.overallResultsWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px 0;
+}
+
+.overallTotal {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 500;
+	color: #463636a2;
+}

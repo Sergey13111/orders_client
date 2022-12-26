@@ -1,0 +1,40 @@
+.productsTitle {
+	margin: 20px 0;
+	text-align: center;
+}
+
+.cardTitle {
+	color: #a44313;
+}
+
+.description {
+	font-style: italic;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.secondTitle {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.buttonText {
+	padding-right: 40px;
+}
+
+.button {
+	position: relative;
+	margin-top: 8px;
+	padding: 5px;
+}
+
+.svg {
+	position: absolute;
+	top: 0;
+	right: 0;
+	transform: translateY(10%);
+	margin-right: 15px;
+}

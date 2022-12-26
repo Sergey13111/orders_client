@@ -1,0 +1,44 @@
+.cartItemCount {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.buttonDeleteItem {
+	margin-left: 4px;
+}
+
+.tableRow {
+	margin: 20px 0;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	background-color: #a3a3a312;
+}
+
+.cartItemPrice {
+	display: flex;
+	justify-content: center;
+}
+
+.cartItemRemove {
+	display: flex;
+	justify-content: center;
+}
+
+.cartItemProductNameWrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	color: #955100;
+}
+
+.productName {
+	margin: 0 10px;
+}
+
+@media (max-width: 768px) {
+	.col {
+		margin-bottom: 15px;
+	}
+}
